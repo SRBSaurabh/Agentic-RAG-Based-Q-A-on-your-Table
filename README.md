@@ -1,6 +1,8 @@
-# Ask Any Questions on Your Uploaded Tabular Data 😃
+# Ask Any Questions on Your Uploaded Tabular Data 😃  
 
-A chatbot utilizing **GPT-3.5**, **Langchain**, **SQLite**, and **ChromaDB** to enable **Q&A** and **RAG** interactions with SQL databases, CSV, and XLSX files using natural language.
+A chatbot powered by **GPT-3.5**, **Langchain**, **SQLite**, and **ChromaDB**, enabling **Q&A** and **RAG** interactions with SQL databases, CSV, and XLSX files using natural language.  
+
+**Purpose:** To develop an **Agentic RAG-based system** with modular, well-structured code, following best coding practices, and integrating databases for seamless end-to-end deployment.
 
 ## ⚠ Key Note
 - **Use only READ-access SQL databases** to prevent unintended data manipulation.
